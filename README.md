@@ -1,4 +1,4 @@
-# Master-Thesis-UPF
-Jupyter Notebook of my master thesis in Biomedical Research (UPF)
+# Mathematical model of bacteria - UPF
+Jupyter Notebook of my research at PRBB (UPF)
 Dynamical Systems Biology
 Barcelona 2020/2021
